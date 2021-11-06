@@ -335,10 +335,23 @@ q->show();
     return app.exec();
 }
 ```
- Si on compile le projet ,Voila le **RESULTAT**:
+     Si on compile le projet ,Voila le **RESULTAT**:
+     
  ![exo5](https://raw.githubusercontent.com/souha-ila/Rapport2/master/exo5/Capture.PNG)
  
+ 
  ## CONCLUSION:
+ 
+  Pour conclure on peut dire que Qt fournit les mécanismes fondamentaux nécessaires au développement de puissantes applications multiplateformes.
+ Ce que nous voyons maintenant dans notre rapport, c'est qu'il s'étend également progressivement pour fournir des API de niveau supérieur qui encapsulent des idiomes spécifiques à la plate-forme.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ## > Realisé par: OUNAR Souhaila / SAIBARI Chaima
 
 
     
