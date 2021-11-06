@@ -336,6 +336,9 @@ q->show();
 }
 ```
  Si on compile le projet ,Voila le **RESULTAT**:
+ ![exo5](https://raw.githubusercontent.com/souha-ila/Rapport2/master/exo5/Capture.PNG)
+ 
+ ## CONCLUSION:
 
 
     
